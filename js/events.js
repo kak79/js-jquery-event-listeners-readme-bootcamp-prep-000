@@ -12,10 +12,10 @@ function getIt (){
 function frameIt (){
   //The function should bind the load event that adds the class tasty to the image to add a red frame to the image.
   
-  <img src="https://s3.amazonaws.com/after-school-assets/minion-tongue.jpg">
-  $('img').on('load', function(){
+ //<img src="https://s3.amazonaws.com/after-school-assets/minion-tongue.jpg">
+ // $('img').on('load', function(){
   
-  });
+  //});
   
   
   
@@ -23,6 +23,8 @@ function frameIt (){
 
 function pressIt (){
   //The function should bind a keydown event to the input field of the form that alerts a user when they have pressed the G key.
+
+
   
 }
 
