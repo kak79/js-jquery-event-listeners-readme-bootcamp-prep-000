@@ -25,7 +25,7 @@ function pressIt (){
   //The function should bind a keydown event to the input field of the form that alerts a user when they have pressed the G key.
 
 $("#typing").on('keydown', function(key) {
-  if (key.which === 83){
+  if (key.which === 71){
     alert('G was pressed');
   }
 });
