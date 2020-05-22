@@ -24,8 +24,8 @@ function frameIt (){
 function pressIt (){
   //The function should bind a keydown event to the input field of the form that alerts a user when they have pressed the G key.
 
-$(#).on('keydown', function(key) {
-  if (key.which == 83){
+$("#typing").on('keydown', function(key) {
+  if (key.which === 83){
     alert('G was pressed');
   }
 });
