@@ -12,6 +12,8 @@ function getIt (){
 function frameIt (){
   //The function should bind the load event that adds the class tasty to the image to add a red frame to the image.
   
+  
+  
 }
 
 function pressIt (){
