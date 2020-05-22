@@ -35,6 +35,10 @@ $(document).on('keydown', function(key) {
 function submitIt (){
   //The function should bind a submit event to the form that alerts "Your form is going to be submitted now.".
   
+  
+  
+  
+  
 }
 
 $(document).ready(function(){
